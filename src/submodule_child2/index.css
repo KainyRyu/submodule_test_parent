@@ -3,3 +3,7 @@ h1 {
   border-style: double;
   border-color: black;
 }
+
+div {
+  padding: 30vw;
+}
