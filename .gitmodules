@@ -1,3 +1,6 @@
 [submodule "submodule_child"]
-	path = submodule_child
+	path = asset/submodule_child
 	url = https://github.com/KainyRyu/submodule_test_child
+[submodule "submodule_child2"]
+	path = src/submodule_child2
+	url = https://github.com/KainyRyu/submodule_child2
