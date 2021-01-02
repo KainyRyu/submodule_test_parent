@@ -1,6 +1,9 @@
-[submodule "submodule_child"]
-	path = asset/submodule_child
-	url = https://github.com/KainyRyu/submodule_test_child
-[submodule "submodule_child2"]
-	path = src/submodule_child2
+[submodule "src/style"]
+	path = src/style
 	url = https://github.com/KainyRyu/submodule_child2
+[submodule "public/submodule_test_child"]
+	path = public/submodule_test_child
+	url = https://github.com/KainyRyu/submodule_test_child
+[submodule "public/img"]
+	path = public/img
+	url = https://github.com/KainyRyu/submodule_test_child
